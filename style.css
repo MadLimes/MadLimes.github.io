@@ -1,0 +1,12 @@
+:root {
+    --build-bg-color: #42e8a6a6;
+}
+
+body {
+    font-family: "Helvetica", "Arial", sans-serif;
+    margin: 0;
+    overflow: hidden;
+    /* background-color: #42e8a6a6; */
+    user-select: none;
+    cursor: auto;
+}
