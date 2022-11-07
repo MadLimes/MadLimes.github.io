@@ -10,3 +10,13 @@ body {
     user-select: none;
     cursor: auto;
 }
+
+input {
+    /* font-family: Monaco, monospace; */
+    padding: 0px 4px;
+    font-size: 0.8em;
+    border: 1.1px #333 solid;
+    border-radius: 4px;
+    /* margin: 0.2em; */
+    /* width: 38px; */
+}
