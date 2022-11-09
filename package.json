@@ -1,6 +1,19 @@
-
 {
     "name": "MadLimes",
+    "description": "",
     "version": "1.0.0",
-    "author": "MadLimes <114199329+MadLimes@users.noreply.github.com>"
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/madlimes/madlimes.github.io"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "Apache-2.0 License",
+    "bugs": {
+      "url": ""
+    },
+    "homepage": "https://github.com/madlimes/madlimes.github.io"
   }
