@@ -20,3 +20,13 @@ input {
     /* margin: 0.2em; */
     /* width: 38px; */
 }
+.game-icon {
+    border-radius: 30px;
+    width: 300px;
+    height: 300px;
+  }
+  .game-title {
+    font-size: 30px;
+    color: #ffffff;
+    text-align: center;
+  }
