@@ -32,8 +32,8 @@ input {
   }
   .game-tile {
     background-color: #3239b294;
-    height: 400px;
-    width: 300px;
+    height: 466px;
+    width: 350px;
     color: #3239b294;
     border-radius: 30px;
     -webkit-animation: scale-down-center 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
@@ -49,7 +49,7 @@ input {
     width: 300px;
   }
   #mySearch {
-    width: 60%;
+    width: 100%;
     text-align: center;
     font-size: 18px;
     padding: 11px;
