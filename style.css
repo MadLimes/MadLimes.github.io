@@ -22,8 +22,8 @@ input {
 }
 .game-icon {
     border-radius: 30px;
-    width: 300px;
-    height: 300px;
+    width: 350px;
+    height: 350px;
   }
   .game-title {
     font-size: 30px;
@@ -49,7 +49,7 @@ input {
     width: 300px;
   }
   #mySearch {
-    width: 50%;
+    width: 60%;
     text-align: center;
     font-size: 18px;
     padding: 11px;
