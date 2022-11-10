@@ -27,14 +27,14 @@ input {
   }
   .game-title {
     font-size: 30px;
-    color: #ffffff;
+    color: #3239b294;
     text-align: center;
   }
   .game-tile {
-    background-color: #949494;
+    background-color: #3239b294;
     height: 400px;
     width: 300px;
-    color: #ffffff;
+    color: #3239b294;
     border-radius: 30px;
     -webkit-animation: scale-down-center 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
     animation: scale-down-center 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
@@ -47,4 +47,12 @@ input {
   .game-link {
     height: 400px;
     width: 300px;
+  }
+  #mySearch {
+    width: 50%;
+    text-align: center;
+    font-size: 18px;
+    padding: 11px;
+    border: 3px solid #ddd;
+    border-radius: 30px;
   }
