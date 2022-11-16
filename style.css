@@ -16,7 +16,7 @@ input {
     padding: 0px 4px;
     font-size: 0.8em;
     border: 1.1px #333 solid;
-    border-radius: 4px;
+    border-radius:  4px;
     /* margin: 0.2em; */
     /* width: 38px; */
 }
@@ -41,7 +41,7 @@ input {
   }
   .game-tile:hover {
     text-decoration: none;
-    -webkit-animation: scale-up-center 0.3s cubic-bezier(0.39, 0.575, 0.565, 1) both;
+    -webkit-animation: scale-up-center 0. 3s cubic-bezier(0.39, 0.575, 0.565, 1) both;
     animation: scale-up-center 0.3s cubic-bezier(0.39, 0.575, 0.565, 1) both;
   }
   .game-link {
@@ -57,5 +57,8 @@ input {
     border-radius: 30px;
   }
   .center {
+    text-align: center; 
+  } 
+  .text-center {
     text-align: center;
   }
